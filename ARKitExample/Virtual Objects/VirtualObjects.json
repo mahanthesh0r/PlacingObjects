@@ -1,0 +1,20 @@
+[
+   
+    {
+        "modelName": "model",
+        "displayName": "model",
+        "particleScaleInfo": { }
+    },
+    {
+        "modelName": "chair",
+        "displayName": "chair",
+        "particleScaleInfo": { }
+    },
+    {
+        "modelName": "lamp",
+        "displayName": "lamp",
+        "particleScaleInfo": { }
+    }
+    
+]
+ 
